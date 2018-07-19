@@ -1,0 +1,15 @@
+{
+    "private": true,
+    "workspaces": [
+        "packages/*"
+    ],
+    "dependencies": {
+        "psql-api": "^0.9.11",
+        "redis": "^2.8.0",
+        "yarn-install": "^1.0.0"
+    },
+    "name": "HILON",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT"
+}
